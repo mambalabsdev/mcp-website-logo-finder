@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-website-logo-finder": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-website-logo-finder"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
