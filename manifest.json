@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-website-logo-finder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Website Logo Finder: company logo, favicon, icons, and brand colors from a domain.",
   "author": {
     "name": "Mamba Labs"
